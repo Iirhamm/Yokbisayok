@@ -10,8 +10,8 @@
 
 <body style="background:darkgray;">
     <div style="color:rgb(252, 252, 252); padding: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
-        <h1 style="color: blue;">Selamat Datang di JUNAVANDRIYANI chanel</h1>
-        <h3>Demonstrasi Google App Engine</h3>
+        <h1 style="color: blue;">Selamat Datang di Irham chanel</h1>
+        <h3>Demonstrasi menggunakan Google App Engine</h3>
     </div>
 </body>
 
